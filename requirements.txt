@@ -1,0 +1,13 @@
+numpy==1.26.4
+pandas==2.2.0
+scipy==1.12.0
+pydantic==2.5.3
+pydantic-settings==2.1.0
+pytest==7.4.3
+pytest-cov==4.1.0
+plotly==5.18.0
+kkivymd==1.2.0
+kivy==2.3.0
+pillow==10.1.0
+python-dateutil==2.8.2
+openpyxl==3.1.2
